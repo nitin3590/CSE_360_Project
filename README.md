@@ -32,7 +32,7 @@ cd CSE_360_Project
    - Open the project in your preferred **Java IDE** (e.g., IntelliJ, Eclipse).
    - Build and run the `Main.java` file located in the **`FrontEnd`** directory.
 
-## 🖥️ Usage
+## Usage
 1. **Login:**  
    Use the default credentials provided in `StaffUIDList.txt` and `PatientUIDList.txt` for initial access.
 2. **Navigation:**  
